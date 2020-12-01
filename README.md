@@ -1,6 +1,8 @@
 #程序员的文艺，不如说是我的心
 
 ##今日音乐榜
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1406686876&auto=1&height=66"></iframe>
+<audio id="audio" controls="" preload="none">
+  <source id="mp3" src="https://m10.music.126.net/20201201230555/17b3b7f204ea81e665b9747f4302e3a6/yyaac/005d/0f0c/065e/77f0967c048fe2bdd33514801f2ffdb9.m4a">
+</audio>
 
 
